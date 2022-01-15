@@ -1,8 +1,10 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap"); */
-@font-face {
-  font-family: 'Raleway';
-  src: url('./Assets/fonts/raleway-v22-latin-regular.woff');
-}
+/* @font-face {
+    font-family: 'Raleway';
+    src: url('/fonts/raleway-v22-latin-regular.woff'); 
+    src: 
+        url('/fonts/raleway-v22-latin-regular.woff') format('woff'), 
+  } */
 
 body {
   margin: 0;
