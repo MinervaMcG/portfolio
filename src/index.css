@@ -1,4 +1,9 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap"); */
+@font-face {
+  font-family: 'Raleway';
+  src: url(/public/fonts/raleway-v22-latin-regular.woff);
+}
+
 body {
   margin: 0;
   font-family: "Raleway", serif !important;
