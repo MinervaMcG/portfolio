@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.png";
+import myImg from "../../Assets/sticker.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -55,7 +55,7 @@ function Intro() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/taru5"
+                  href="https://github.com/MinervaMcG"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
